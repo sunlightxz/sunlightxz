@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub! <br/>
 My name is Amine I am a frontend web developer. <br/>
-I can provide clean code and pixel perfect responsive design. 🌱<br/>
 Proficient in Tailwind, JavaScript and React plus modern libraries and frameworks 💻
 
 ### Technologies I work with:
