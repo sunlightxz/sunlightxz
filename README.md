@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi there 👋
+Welcome to my GitHub!
+My name is Amine I am a frontend web developer. 
+I can provide clean code and pixel perfect responsive design. 🌱
+Proficient in Tailwind, JavaScript and React plus modern libraries and frameworks 💻
+
+Technologies I work with:
+
+html5 html5 html5 html5 html5
+
+📫 How to reach me:
+
+linkedin Instagram twitter
