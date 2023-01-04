@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-mia
+mi
 
 Welcome to my GitHub! <br/>
 My name is Amine I am a frontend web developer. <br/>
