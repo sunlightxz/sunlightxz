@@ -20,7 +20,7 @@ My name is Amine I am a frontend web developer. <br/>
 Proficient in Tailwind, NextJs and React plus other modern libraries and frameworks 💻
 
 ### Technologies I work with:
-<strong>BackEnd:</strong>
+<strong>BackEnd:</strong>ww
 
 <div style="display: inline-block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" />
