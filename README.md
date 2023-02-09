@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub! <br/>
 My name is Amine I am a frontend web developer. <br/>
 Proficient in Tailwind, NextJs and React plus other modern libraries and frameworks 💻
-ew
+
 ### Technologies I work with:
 <strong>BackEnd:</strong>
 
